@@ -2,7 +2,7 @@ a{
 	outline:0 !important;	
 }
 .navbar-light {
-	background-color:#000000 !important;
+	background-color:#3F4567 !important;
 	font-size:14px;	
 }
 .navbar-light .navbar-nav .nav-link{
@@ -15,7 +15,7 @@ a{
 }
 .navbar-light .navbar-nav .active .nav-link{
 	background-color:transparent;
-	color:#ff5518;
+	color: #F07021;
 }
 .navbar-light .navbar-nav .active .nav-link:hover{
 	background-color:transparent;
